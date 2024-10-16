@@ -7,7 +7,7 @@ app.get("/", function(req,res){
 
 
 app.get("/segundo", function(req,res){
-    res.send("<h1>segunda rota!</h1>");
+    res.send("<h1>segunda2222 rota!</h1>");
 })
 
 app.get("/terceiro", function(req,res){
